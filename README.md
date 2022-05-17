@@ -1,5 +1,6 @@
 # ML-Statistics-Transformation-of-various-distributions-[README.md]
-[README.md]
+[README.md][README.md](https://github.com/raviranjan020715/ML-Statistics-Transformation-of-various-distributions-/files/8707066/README.md)
+
 
 # ML Statistics (Transformation of various Distributions).
 
