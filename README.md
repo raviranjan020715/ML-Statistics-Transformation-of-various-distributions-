@@ -27,3 +27,4 @@ This project is used by the following :
 **Programming Language Used: Python**
 
 **IDE Used: Jupyter Notebbok**
+![Screenshot (](https://user-images.githubusercontent.com/62924770/168985577-103c821f-f87c-4176-999d-fbf51355c0c3.png)
